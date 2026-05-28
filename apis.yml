@@ -1,0 +1,32 @@
+aid: nhl-records-and-stats
+name: NHL Records and Stats
+description: "NHL historical data and statistics"
+url: https://gitlab.com/dword4/nhlapi
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Sports & Fitness"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Sports And Fitness
+  - Public APIs
+apis:
+  - name: NHL Records and Stats
+    description: "NHL historical data and statistics"
+    humanURL: https://gitlab.com/dword4/nhlapi
+    baseURL: https://gitlab.com/dword4/nhlapi
+    tags:
+      - Sports And Fitness
+    properties:
+      - type: Documentation
+        url: https://gitlab.com/dword4/nhlapi
+common:
+  - type: Website
+    url: https://gitlab.com/dword4/nhlapi
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
