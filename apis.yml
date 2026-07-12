@@ -23,6 +23,12 @@ apis:
       - type: Documentation
         url: https://gitlab.com/dword4/nhlapi
 common:
+  - type: TrustCenter
+    url: security/nhl-records-and-stats-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/nhl-records-and-stats-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/nhl-records-and-stats-domain-security.yml
   - type: Website
     url: https://gitlab.com/dword4/nhlapi
   - type: PublicAPIsListing
