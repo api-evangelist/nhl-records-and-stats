@@ -1,0 +1,29 @@
+# Front Door AI Index — nhl-records-and-stats — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: nhl-records-and-stats
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: gitlab.com
+  final_host: about.gitlab.com
+  ownership: inherited
+  owner: nhl-records-and-stats
+  shares_host_with: null
+  inherited_from: about.gitlab.com
+  verdict: scored
+  score: null
+  host_score: 9
+  density: null
+  words: 811
+  tiers:
+    agentic: 3
+    core: 6
+    model: 0
+  ambiguous: 11
+  top_terms:
+    agent: 10
+    AI: 6
+    agentic: 2
+    AI agent: 1
+    automation: 1
