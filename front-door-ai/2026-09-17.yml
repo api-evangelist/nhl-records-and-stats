@@ -7,14 +7,17 @@ front_door_ai:
   probed_at: '2026-09-17'
   host: gitlab.com
   final_host: about.gitlab.com
-  ownership: inherited
+  ownership: own
   owner: nhl-records-and-stats
   shares_host_with: null
-  inherited_from: about.gitlab.com
+  inherited_from: null
+  alias_of: about.gitlab.com
   verdict: scored
-  score: null
+  score: 9
+  band: 4
+  band_label: moderate
   host_score: 9
-  density: null
+  density: 11.1
   words: 811
   tiers:
     agentic: 3
